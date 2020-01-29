@@ -6,7 +6,7 @@ author_profile: true
 ## 2020
 * <b>Strong Baselines for Author Name Disambiguation with and without Neural Networks</b>. <br>
 Zhenyu Zhang, <b>Bowen Yu</b>, Tingwen Liu, Dong Wang. <i>In Proceedings of the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2020**)</i>.<br>
-[[PDF]](https://yubowen-ph.github.io/files/2020_PAKDD_Strong/Strong.pdf)
+<!-- [[PDF]](https://yubowen-ph.github.io/files/2020_PAKDD_Strong/Strong.pdf) -->
 <!-- [[Poster]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_poster.pdf) -->
 <!-- [[Slides]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_slides.pdf) -->
 <!-- [[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm) -->
@@ -18,7 +18,7 @@ Zhenyu Zhang, <b>Bowen Yu</b>, Tingwen Liu, Dong Wang. <i>In Proceedings of the 
 [[Code]](https://github.com/yubowen-ph/JointER)
 * <b>Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction</b>. <br>
 Zhenyu Zhang, Xiaobo Shu, <b>Bowen Yu</b>, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>.<br> 
-[[PDF]](https://yubowen-ph.github.io/files/2020_AAAI_Distill/KD4NRE.pdf)
+<!-- [[PDF]](https://yubowen-ph.github.io/files/2020_AAAI_Distill/KD4NRE.pdf) -->
 <!-- [[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) -->
 
 ## 2019
