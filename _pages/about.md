@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). <br>
-I received my Bachelor's degree in [Central South University](http://en.csu.edu.cn) in Changsha, China. 
+I received my Bachelor's degree from [Central South University](http://en.csu.edu.cn) in Changsha, China in 2017.  Up to now, I have published several papers in the world top conferences such as AAAI, IJCAI, ECAI.
 <!-- title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))" -->
 
 # Research
