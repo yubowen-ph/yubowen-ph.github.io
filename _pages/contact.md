@@ -1,8 +1,11 @@
 ---
-title: "Curriculum Vitae"
+title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
+
+<!-- title: "Curriculum Vitae" -->
+
 
 <!-- [English CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf) -->
 
