@@ -10,7 +10,7 @@ redirect_from:
 I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). I received my Bachelor's degree from [Central South University](http://en.csu.edu.cn) in Changsha, China in 2017. My research interests mainly lie in **Information Extraction**, but also include Metric Learning and Unsupervised Learning. Up to now, I have published several papers in the world top conferences such as AAAI, IJCAI, ECAI.
 <!-- title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))" -->
 
-# Research
+<!-- # Research -->
 
 <!-- Indeed, my works focus on **Relation Extraction** and scalable **optimization** tools for them, to channel theory and algorithms into applications. -->
 
