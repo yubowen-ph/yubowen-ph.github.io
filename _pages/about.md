@@ -1,6 +1,5 @@
 ---
 permalink: /
-<!-- title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))" -->
 title: "About me"
 excerpt: "About me"
 author_profile: true
@@ -10,6 +9,7 @@ redirect_from:
 ---
 I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). <br>
 I received my Bachelor's degree in [Central South University](http://en.csu.edu.cn) in Changsha, China. 
+<!-- title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))" -->
 
 # Research
 My research interests mainly lie in **Information Extraction**, but also include Metric Learning and Unsupervised Learning. <br>
