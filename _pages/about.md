@@ -19,7 +19,7 @@ My research interests mainly lie in **Information Extraction**, but also include
 * **New!!!** Zhenyu Zhang, <b>Bowen Yu</b>, Tingwen Liu, Dong Wang. "Strong Baselines for Author Name Disambiguation with and without Neural Networks". Accepted to the the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining ([PAKDD 2020](http://pakdd2020.org)).
 * **Bowen Yu**, Zhenyu Zhang, Xiaobo Shu, Tingwen Liu, Yubin Wang, Bin Wang, Sujian Li. "Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy". Accepted to the 24th European Conference on Artificial Intelligence ([ECAI 2020](http://ecai2020.eu)).
 * Zhenyu Zhang, Xiaobo Shu, <b>Bowen Yu</b>, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo. "Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
-* **Bowen Yu**, Zhenyu Zhang, Tingwen Liu, Bin Wang, Sujian Li, Quangang Li.. "Multi-Class Learning: From Theory to Algorithm". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
+* **Bowen Yu**, Zhenyu Zhang, Tingwen Liu, Bin Wang, Sujian Li, Quangang Li. "Beyond Word Attention: Using Segment Attention in Neural Relation Extraction". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
 <!-- * **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)). -->
 
 # Honors and Awards
@@ -31,7 +31,7 @@ My research interests mainly lie in **Information Extraction**, but also include
 * [Merit Student](https://yubowen-ph.github.io/files/awards/2018_merit_student.jpeg), University of Chinese Academy of Sciences (UCAS). 2018.
 * [UCAS Undergraduate Scholarship](https://yubowen-ph.github.io/files/awards/2017_undergraduate_scholarship.jpeg), University of Chinese Academy of Sciences (UCAS). 2017.
 * Outstanding Graduate of Hunan Province (Top 2%), Hunan Provincial Education Department, China. 2017.
-* First Prize of The Third National University Cloud Computing Application Innovation Contest (Top 3&permil, RMB &yen; 5,000), Ministry of Education of P.R. China. 2017.
+* First Prize of The Third National University Cloud Computing Application Innovation Contest (Top 3‰, RMB &yen; 5,000), Ministry of Education of P.R. China. 2017.
 * Second Prize of The Ninth National College Student Information Security Contest, Ministry of Education of P.R. China. 2016.
 * National Encouragement Scholarship(Top 3%, RMB &yen; 5,000), Ministry of Education of P.R. China. 2016.
 

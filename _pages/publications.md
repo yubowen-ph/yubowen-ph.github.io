@@ -23,7 +23,7 @@ Zhenyu Zhang, Xiaobo Shu, <b>Bowen Yu</b>, Tingwen Liu, Jiapeng Zhao, Quangang L
 
 ## 2019
 
-* <b>Beyond Word Attention: Using Segment Attention in Neural Relation Extraction </b>. <br>
+* <b>Beyond Word Attention: Using Segment Attention in Neural Relation Extraction</b>. <br>
 <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu, Bin Wang, Sujian Li, Quangang Li. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. <br>
 [[PDF]](https://www.ijcai.org/Proceedings/2019/0750.pdf)
 [[Code]](https://github.com/yubowen-ph/segment)
