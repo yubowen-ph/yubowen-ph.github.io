@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Bowen Yu"
-  avatar           : "avatar.png" # "jianli.jpg" #
+  avatar           : "thumb.jpeg" # "jianli.jpg" #
   bio              : "PhD student in Natural Language Processing. Institute of Information Engineering, CAS"
   location         : "Beijing, China"
   employer         : 
