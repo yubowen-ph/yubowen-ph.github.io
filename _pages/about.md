@@ -25,7 +25,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 # Honors and Awards
 <!-- * [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf) for [academic visiting at Stanford University twelve months](https://lijian.ac.cn/files/awards/2019_stanford_visiting.pdf). University of Chinese Academy of Sciences (UCAS). 2019. -->
 <!-- * [CAS Presidential Scholarship (Top 1%, RMB &yen; 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf), Chinese Academy of Sciences (CAS). 2019. -->
-* National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000), Ministry of Education of P.R. China. 2019.
+* National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000), Ministry of Education, China 2019.
 <!-- * [National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf), Ministry of Education of P.R. China. 2018. -->
 * IIE Presidential Scholarship (Top 10%, RMB &yen; 2,000), Institute of Information Engineering, Chinese Academy of Sciences (CAS). 2019.
 * [Merit Student](https://yubowen-ph.github.io/files/awards/2018_merit_student.jpeg), University of Chinese Academy of Sciences (UCAS). 2018.
@@ -33,7 +33,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 * Outstanding Graduate of Hunan Province (Top 2%), Hunan Provincial Education Department, China. 2017.
 * First Prize of The Third National University Cloud Computing Application Innovation Contest (Top 1‰, RMB &yen; 5,000), Ministry of Education, China. 2017.
 * Second Prize of the 3nd National College Competition on Internet of Things (Top 1%), Ministry of Education, China. 2016.
-* First Class Scholarship (Top 2%, RMB &yen; 5,000), Central South University (CSU). 2016.
+* First Class Scholarship (Top 2%, RMB &yen; 5,000), Central South University. 2016.
 * Second Prize of The Ninth National College Student Information Security Contest (Top 1%), Ministry of Education, China. 2016.
 * National Encouragement Scholarship(Top 3%, RMB &yen; 5,000), Ministry of Education, China. 2016.
 
