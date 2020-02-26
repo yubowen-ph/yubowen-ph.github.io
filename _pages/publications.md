@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2020
-* <b>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</b>. <br>
+* <b>Event Detection with Relation-Aware Graph Convolutional Networks</b>. <br>
 Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu∗, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2002.10757.pdf)
 * <b>DRG2vec: Learning Word Representations from Definition Relational Graph</b>. <br>
