@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2020
+* <b>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</b>. <br>
+Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu∗, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <br>
+[[PDF]](https://arxiv.org/pdf/2002.10757.pdf)
 * <b>DRG2vec: Learning Word Representations from Definition Relational Graph</b>. <br>
 Xiaobo Shu, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu. <i>In Proceedings of the 2020 International Joint Conference on Neural Networks (**IJCNN 2020**)</i>.<br>
 [[PDF]](https://yubowen-ph.github.io/files/2020_IJCNN_DRG2vec/DRG2vec.pdf)
