@@ -5,46 +5,48 @@ author_profile: true
 ---
 ## 2020
 * <b>Event Detection with Relation-Aware Graph Convolutional Networks</b>. <br>
-Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu∗, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <br>
+Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <i>Submitted to COLING 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2002.10757.pdf)
 * <b>DRG2vec: Learning Word Representations from Definition Relational Graph</b>. <br>
 Xiaobo Shu, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu. <i>In Proceedings of the 2020 International Joint Conference on Neural Networks (**IJCNN 2020**)</i>.<br>
 [[PDF]](https://yubowen-ph.github.io/files/2020_IJCNN_DRG2vec/DRG2vec.pdf)
 * <b>Strong Baselines for Author Name Disambiguation with and without Neural Networks</b>. <br>
-Zhenyu Zhang, <b>Bowen Yu</b>, Tingwen Liu, Dong Wang. <i>In Proceedings of the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2020**)</i>.<br>
+Zhenyu Zhang, <b>Bowen Yu</b>, Tingwen Liu, Dong Wang. <i>In Proceedings of the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2020**, CCF-C, acceptance rate 21%, 628 submissions)</i>.<br>
 [[PDF]](https://yubowen-ph.github.io/files/2020_PAKDD_Strong/Strong.pdf)
 <!-- [[Poster]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_poster.pdf) -->
 <!-- [[Slides]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_slides.pdf) -->
 <!-- [[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm) -->
 * <b>Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy</b>. <br>
-<b>Bowen Yu</b>, Zhenyu Zhang, Xiaobo Shu, Tingwen Liu, Yubin Wang, Bin Wang, Sujian Li. <i>In Proceedings of the 24th European Conference on Artificial Intelligence (**ECAI 2020**)</i>.<br>
+<b>Bowen Yu</b>, Zhenyu Zhang, Xiaobo Shu, Tingwen Liu, Yubin Wang, Bin Wang, Sujian Li. <i>In Proceedings of the 24th European Conference on Artificial Intelligence (**ECAI 2020**, CCF-B, acceptance rate 26.8%, 1443 submissions)</i>.<br>
 [[PDF]](https://yubowen-ph.github.io/files/2020_ECAI_ETL/ETL.pdf)
 <!-- [[Poster]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG_poster.pdf) -->
 <!-- [[Slides]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG_slides.pdf) -->
 [[Code]](https://github.com/yubowen-ph/JointER)
 * <b>Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction</b>. <br>
-Zhenyu Zhang, Xiaobo Shu, <b>Bowen Yu</b>, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>.<br> 
+Zhenyu Zhang, Xiaobo Shu, <b>Bowen Yu</b>, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**, CCF-A, acceptance rate 20.6%, 8800 submissions)</i>.<br> 
 <!-- [[PDF]](https://yubowen-ph.github.io/files/2020_AAAI_Distill/KD4NRE.pdf) -->
 <!-- [[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) -->
 
-## 2019
-
-* <b>Beyond Word Attention: Using Segment Attention in Neural Relation Extraction</b>. <br>
-<b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu, Bin Wang, Sujian Li, Quangang Li. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. <br>
-[[PDF]](https://www.ijcai.org/Proceedings/2019/0750.pdf)
-[[Code]](https://github.com/yubowen-ph/segment)
-[[Slides]](https://yubowen-ph.github.io/files/2019_IJCAI_SA/SA_Oral.pdf)
-
-
 * <b>Porous Lattice Transformer Encoder for Chinese NER</b>. <br>
-Mengge Xue, <b>Bowen Yu</b>, Tingwen Liu, Bin Wang, Erli Meng, Quangang Li. <i>arXiv preprint arXiv:1911.02733, 2019</i>. <br>
+Mengge Xue, <b>Bowen Yu</b>, Tingwen Liu, Bin Wang, Erli Meng, Quangang Li. <i>arXiv preprint arXiv:1911.02733, 2019</i>. <i>Submitted to ACL 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/1911.02733.pdf)
 <!-- [[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features) -->
 
 
 * <b>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</b>. <br>
-Yanzeng Li, <b>Bowen Yu</b>, Mengge Xue, Tingwen Liu. <i>arXiv preprint arXiv:1911.02821, 2019</i>. <br>
+Yanzeng Li, <b>Bowen Yu</b>, Mengge Xue, Tingwen Liu. <i>arXiv preprint arXiv:1911.02821, 2019</i>. <i>Submitted to ACL 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/1911.02821.pdf)
+
+## 2019
+
+* <b>Beyond Word Attention: Using Segment Attention in Neural Relation Extraction</b>. <br>
+<b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu, Bin Wang, Sujian Li, Quangang Li. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**, CCF-A, acceptance rate 17.9%, 4752 submissions)</i>. <br>
+[[PDF]](https://www.ijcai.org/Proceedings/2019/0750.pdf)
+[[Code]](https://github.com/yubowen-ph/segment)
+[[Slides]](https://yubowen-ph.github.io/files/2019_IJCAI_SA/SA_Oral.pdf)
+
+
+
 
 <!-- ## 2018
 * <b>Multi-Class Learning: From Theory to Algorithm</b>. <br>
