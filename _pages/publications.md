@@ -8,7 +8,7 @@ author_profile: true
 Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <i>Submitted to COLING 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2002.10757.pdf)
 * <b>DRG2vec: Learning Word Representations from Definition Relational Graph</b>. <br>
-Xiaobo Shu, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu. <i>In Proceedings of the 2020 International Joint Conference on Neural Networks (**IJCNN 2020**)</i>.<br>
+Xiaobo Shu, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu. <i>In Proceedings of the 2020 International Joint Conference on Neural Networks (**IJCNN 2020**, CCF-C)</i>.<br>
 [[PDF]](https://yubowen-ph.github.io/files/2020_IJCNN_DRG2vec/DRG2vec.pdf)
 * <b>Strong Baselines for Author Name Disambiguation with and without Neural Networks</b>. <br>
 Zhenyu Zhang, <b>Bowen Yu</b>, Tingwen Liu, Dong Wang. <i>In Proceedings of the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2020**, CCF-C, acceptance rate 21%, 628 submissions)</i>.<br>
