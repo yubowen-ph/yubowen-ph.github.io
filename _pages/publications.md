@@ -4,6 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2020
+
+* <b>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</b>. <br>
+Yanzeng Li, <b>Bowen Yu</b>, Mengge Xue, Tingwen Liu. <i>In Proceedings of the 58th annual meeting of the Association for Computational Linguistics (**ACL 2020**, CCF-A)</i>. <br>
+[[PDF]](https://arxiv.org/pdf/1911.02821.pdf)
+
 * <b>Event Detection with Relation-Aware Graph Convolutional Networks</b>. <br>
 Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <i>Submitted to COLING 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2002.10757.pdf)
@@ -32,10 +37,6 @@ Mengge Xue, <b>Bowen Yu</b>, Tingwen Liu, Bin Wang, Erli Meng, Quangang Li. <i>a
 [[PDF]](https://arxiv.org/pdf/1911.02733.pdf)
 <!-- [[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features) -->
 
-
-* <b>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</b>. <br>
-Yanzeng Li, <b>Bowen Yu</b>, Mengge Xue, Tingwen Liu. <i>arXiv preprint arXiv:1911.02821, 2019</i>. <i>Submitted to ACL 2020</i>. <br>
-[[PDF]](https://arxiv.org/pdf/1911.02821.pdf)
 
 ## 2019
 

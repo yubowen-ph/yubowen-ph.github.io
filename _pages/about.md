@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). I received my Bachelor's degree from [Central South University](http://en.csu.edu.cn) in Changsha, China in 2017. My research interests mainly lie in **Information Extraction**, but also include Metric Learning and Unsupervised Learning. Up to now, I have published several papers in the world top conferences such as AAAI, IJCAI, ECAI.
+I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). I received my Bachelor's degree from [Central South University](http://en.csu.edu.cn) in Changsha, China in 2017. My research interests mainly lie in **Information Extraction**, but also include Metric Learning and Unsupervised Learning. Up to now, I have published several papers in the world top conferences such as ACL, AAAI, IJCAI and ECAI. I am a program committee member of top conferences such as ECML-PKDD.
 <!-- title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))" -->
 
 <!-- # Research -->
@@ -15,10 +15,11 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 <!-- Indeed, my works focus on **Relation Extraction** and scalable **optimization** tools for them, to channel theory and algorithms into applications. -->
 
 # Publications
-* **New!!!** Xiaobo Shu, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu. "DRG2vec: Learning Word Representations from Definition Relational Graph". Accepted to the 2020 International Joint Conference on Neural Networks ([IJCNN 2020](https://wcci2020.org)).
-* Zhenyu Zhang, <b>Bowen Yu</b>, Tingwen Liu, Dong Wang. "Strong Baselines for Author Name Disambiguation with and without Neural Networks". Accepted to the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining ([PAKDD 2020](http://pakdd2020.org)).
+* **New!!!** Yanzeng Li, **Bowen Yu**, Mengge Xue, Tingwen Liu. "Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention". Accepted to the 58th annual meeting of the Association for Computational Linguistics ([ACL 2020](https://acl2020.org)).
+* Xiaobo Shu, **Bowen Yu**, Zhenyu Zhang, Tingwen Liu. "DRG2vec: Learning Word Representations from Definition Relational Graph". Accepted to the 2020 International Joint Conference on Neural Networks ([IJCNN 2020](https://wcci2020.org)).
+* Zhenyu Zhang, **Bowen Yu**, Tingwen Liu, Dong Wang. "Strong Baselines for Author Name Disambiguation with and without Neural Networks". Accepted to the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining ([PAKDD 2020](http://pakdd2020.org)).
 * **Bowen Yu**, Zhenyu Zhang, Xiaobo Shu, Tingwen Liu, Yubin Wang, Bin Wang, Sujian Li. "Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy". Accepted to the 24th European Conference on Artificial Intelligence ([ECAI 2020](http://ecai2020.eu)).
-* Zhenyu Zhang, Xiaobo Shu, <b>Bowen Yu</b>, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo. "Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
+* Zhenyu Zhang, Xiaobo Shu, **Bowen Yu**, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo. "Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
 * **Bowen Yu**, Zhenyu Zhang, Tingwen Liu, Bin Wang, Sujian Li, Quangang Li. "Beyond Word Attention: Using Segment Attention in Neural Relation Extraction". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
 <!-- * **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)). -->
 
