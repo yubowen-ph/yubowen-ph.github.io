@@ -5,6 +5,9 @@ author_profile: true
 ---
 ## 2020
 
+* <b>基于图卷积记忆网络的方面级情感分类</b>. <br>
+王光, 李鸿宇, 邱云飞, <b>郁博文</b>, 柳厅文. <i>中文信息学报</i>. <br>
+
 * <b>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</b>. <br>
 Yanzeng Li, <b>Bowen Yu</b>, Mengge Xue, Tingwen Liu. <i>In Proceedings of the 58th annual meeting of the Association for Computational Linguistics (**ACL 2020**, CCF-A)</i>. <br>
 [[PDF]](https://arxiv.org/pdf/1911.02821.pdf)
