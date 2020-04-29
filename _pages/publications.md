@@ -7,10 +7,14 @@ author_profile: true
 
 * <b>基于图卷积记忆网络的方面级情感分类</b>. <br>
 王光, 李鸿宇, 邱云飞, <b>郁博文</b>, 柳厅文. <i>中文信息学报</i>. <br>
+[[PDF]](https://yubowen-ph.github.io/files/JCIP_2020_GCN/GCN.pdf)
+
 
 * <b>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</b>. <br>
 Yanzeng Li, <b>Bowen Yu</b>, Mengge Xue, Tingwen Liu. <i>In Proceedings of the 58th annual meeting of the Association for Computational Linguistics (**ACL 2020**, CCF-A)</i>. <br>
-[[PDF]](https://arxiv.org/pdf/1911.02821.pdf)
+[[PDF]](https://yubowen-ph.github.io/files/ACL_2020_MWA/MWA.pdf)
+[[Code]](https://github.com/lsvih/MWA.)
+
 
 * <b>Event Detection with Relation-Aware Graph Convolutional Networks</b>. <br>
 Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <i>Submitted to COLING 2020</i>. <br>
@@ -21,6 +25,7 @@ Xiaobo Shu, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu. <i>In Proceedings of the
 * <b>Strong Baselines for Author Name Disambiguation with and without Neural Networks</b>. <br>
 Zhenyu Zhang, <b>Bowen Yu</b>, Tingwen Liu, Dong Wang. <i>In Proceedings of the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (**PAKDD 2020**, CCF-C, acceptance rate 21%, 628 submissions)</i>.<br>
 [[PDF]](https://yubowen-ph.github.io/files/2020_PAKDD_Strong/Strong.pdf)
+[[Slides]](https://yubowen-ph.github.io/files/2020_PAKDD_Strong/slides.pdf)
 <!-- [[Poster]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_poster.pdf) -->
 <!-- [[Slides]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_slides.pdf) -->
 <!-- [[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm) -->
