@@ -36,7 +36,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 <!-- * [CAS Presidential Scholarship (Top 1%, RMB &yen; 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf), Chinese Academy of Sciences (CAS). 2019. -->
 * National Scholarship for Doctoral students (Top 2%), Ministry of Education, China 2019.
 <!-- * [National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf), Ministry of Education of P.R. China. 2018. -->
-* IIE Presidential Scholarship (Top 10%), Institute of Information Engineering, Chinese Academy of Sciences). 2019.
+* IIE Presidential Scholarship (Top 10%), Institute of Information Engineering, Chinese Academy of Sciences. 2019.
 * [Merit Student](https://yubowen-ph.github.io/files/awards/2018_merit_student.jpeg), University of Chinese Academy of Sciences. 2018.
 * [UCAS Undergraduate Scholarship](https://yubowen-ph.github.io/files/awards/2017_undergraduate_scholarship.jpeg) (Top 10%), University of Chinese Academy of Sciences. 2017.
 * Outstanding Graduate of Hunan Province (Top 2%), Hunan Provincial Education Department, China. 2017.
