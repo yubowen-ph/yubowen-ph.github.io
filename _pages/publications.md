@@ -19,9 +19,6 @@ Yanzeng Li, <b>Bowen Yu</b>, Mengge Xue, Tingwen Liu. <i>In Proceedings of the 5
 [[Code]](https://github.com/lsvih/MWA.)
 
 
-* <b>Event Detection with Relation-Aware Graph Convolutional Networks</b>. <br>
-Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <i>Submitted to EMNLP 2020</i>. <br>
-[[PDF]](https://arxiv.org/pdf/2002.10757.pdf)
 * <b>DRG2vec: Learning Word Representations from Definition Relational Graph</b>. <br>
 Xiaobo Shu, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu. <i>In Proceedings of the 2020 International Joint Conference on Neural Networks (**IJCNN 2020**, CCF-C)</i>.<br>
 [[PDF]](https://yubowen-ph.github.io/files/2020_IJCNN_DRG2vec/DRG2vec.pdf)
@@ -40,11 +37,18 @@ Zhenyu Zhang, <b>Bowen Yu</b>, Tingwen Liu, Dong Wang. <i>In Proceedings of the 
 [[Code]](https://github.com/yubowen-ph/JointER)
 * <b>Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction</b>. <br>
 Zhenyu Zhang, Xiaobo Shu, <b>Bowen Yu</b>, Tingwen Liu, Jiapeng Zhao, Quangang Li, Li Guo. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**, CCF-A, acceptance rate 20.6%, 8800 submissions)</i>.<br> 
+[[PDF]](https://aaai.org/ojs/index.php/AAAI/article/view/6509)
+[[Code]](https://github.com/zzysay/KD4NRE)
 <!-- [[PDF]](https://yubowen-ph.github.io/files/2020_AAAI_Distill/KD4NRE.pdf) -->
 <!-- [[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) -->
 
+
+* <b>Event Detection with Relation-Aware Graph Convolutional Networks</b>. <br>
+Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <i>Submitted to EMNLP 2020</i>. <br>
+[[PDF]](https://arxiv.org/pdf/2002.10757.pdf)
+
 * <b>Porous Lattice Transformer Encoder for Chinese NER</b>. <br>
-Mengge Xue, <b>Bowen Yu</b>, Tingwen Liu, Bin Wang, Erli Meng, Quangang Li. <i>arXiv preprint arXiv:1911.02733, 2019</i>. <i>Submitted to ACL 2020</i>. <br>
+Mengge Xue, <b>Bowen Yu</b>, Tingwen Liu, Bin Wang, Erli Meng, Quangang Li. <i>arXiv preprint arXiv:1911.02733, 2019</i>. <i>Submitted to COLING 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/1911.02733.pdf)
 <!-- [[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features) -->
 
