@@ -15,7 +15,8 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 <!-- Indeed, my works focus on **Relation Extraction** and scalable **optimization** tools for them, to channel theory and algorithms into applications. -->
 
 # Publications
-* **New!!!** Yanzeng Li, **Bowen Yu**, Mengge Xue, Tingwen Liu. "Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention". Accepted to the 58th annual meeting of the Association for Computational Linguistics ([ACL 2020](https://acl2020.org)).
+* **New!!!** Xin Cong, **Bowen Yu**, Tingwen Liu, Shiyao Cui, Hengzhu Tang, Bin Wang. "Inductive Unsupervised Domain Adaptation for Few-Shot Classification via Clustering". Accepted to the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2020](https://ecmlpkdd2020.net)).
+* Yanzeng Li, **Bowen Yu**, Mengge Xue, Tingwen Liu. "Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention". Accepted to the 58th annual meeting of the Association for Computational Linguistics ([ACL 2020](https://acl2020.org)).
 * Xiaobo Shu, **Bowen Yu**, Zhenyu Zhang, Tingwen Liu. "DRG2vec: Learning Word Representations from Definition Relational Graph". Accepted to the 2020 International Joint Conference on Neural Networks ([IJCNN 2020](https://wcci2020.org)).
 * Zhenyu Zhang, **Bowen Yu**, Tingwen Liu, Dong Wang. "Strong Baselines for Author Name Disambiguation with and without Neural Networks". Accepted to the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining ([PAKDD 2020](http://pakdd2020.org)).
 * **Bowen Yu**, Zhenyu Zhang, Xiaobo Shu, Tingwen Liu, Yubin Wang, Bin Wang, Sujian Li. "Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy". Accepted to the 24th European Conference on Artificial Intelligence ([ECAI 2020](http://ecai2020.eu)).
@@ -33,9 +34,9 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 * Merit Student, University of Chinese Academy of Sciences (UCAS). 2019.
 <!-- * [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf) for [academic visiting at Stanford University twelve months](https://lijian.ac.cn/files/awards/2019_stanford_visiting.pdf). University of Chinese Academy of Sciences (UCAS). 2019. -->
 <!-- * [CAS Presidential Scholarship (Top 1%, RMB &yen; 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf), Chinese Academy of Sciences (CAS). 2019. -->
-* National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000), Ministry of Education, China 2019.
+* National Scholarship for Doctoral students (Top 2%), Ministry of Education, China 2019.
 <!-- * [National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf), Ministry of Education of P.R. China. 2018. -->
-* IIE Presidential Scholarship (Top 10%, RMB &yen; 2,000), Institute of Information Engineering, Chinese Academy of Sciences (CAS). 2019.
+* IIE Presidential Scholarship (Top 10%), Institute of Information Engineering, Chinese Academy of Sciences (CAS). 2019.
 * [Merit Student](https://yubowen-ph.github.io/files/awards/2018_merit_student.jpeg), University of Chinese Academy of Sciences (UCAS). 2018.
 * [UCAS Undergraduate Scholarship](https://yubowen-ph.github.io/files/awards/2017_undergraduate_scholarship.jpeg) (Top 10%), University of Chinese Academy of Sciences (UCAS). 2017.
 * Outstanding Graduate of Hunan Province (Top 2%), Hunan Provincial Education Department, China. 2017.

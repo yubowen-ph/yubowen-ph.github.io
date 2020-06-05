@@ -5,19 +5,22 @@ author_profile: true
 ---
 ## 2020
 
+* <b>Inductive Unsupervised Domain Adaptation for Few-Shot Classification via Clustering</b>. <br>
+Xin Cong, <b>Bowen Yu</b>, Tingwen Liu, Shiyao Cui, Hengzhu Tang, Bin Wang. <i>In Proceedings of the 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**, CCF-B, acceptance rate 19.1%, 687 submissions)</i>. <br>
+
 * <b>基于图卷积记忆网络的方面级情感分类</b>. <br>
 王光, 李鸿宇, 邱云飞, <b>郁博文</b>, 柳厅文. <i>中文信息学报</i>. <br>
 [[PDF]](https://yubowen-ph.github.io/files/JCIP_2020_GCN/GCN.pdf)
 
 
 * <b>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</b>. <br>
-Yanzeng Li, <b>Bowen Yu</b>, Mengge Xue, Tingwen Liu. <i>In Proceedings of the 58th annual meeting of the Association for Computational Linguistics (**ACL 2020**, CCF-A)</i>. <br>
+Yanzeng Li, <b>Bowen Yu</b>, Mengge Xue, Tingwen Liu. <i>In Proceedings of the 58th annual meeting of the Association for Computational Linguistics (**ACL 2020**, CCF-A, acceptance rate 25.2%, 3088 submissions)</i>. <br>
 [[PDF]](https://yubowen-ph.github.io/files/ACL_2020_MWA/MWA.pdf)
 [[Code]](https://github.com/lsvih/MWA.)
 
 
 * <b>Event Detection with Relation-Aware Graph Convolutional Networks</b>. <br>
-Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <i>Submitted to COLING 2020</i>. <br>
+Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <i>Submitted to EMNLP 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2002.10757.pdf)
 * <b>DRG2vec: Learning Word Representations from Definition Relational Graph</b>. <br>
 Xiaobo Shu, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu. <i>In Proceedings of the 2020 International Joint Conference on Neural Networks (**IJCNN 2020**, CCF-C)</i>.<br>
