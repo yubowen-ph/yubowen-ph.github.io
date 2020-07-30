@@ -51,7 +51,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 
 * [2020 Language and Intelligence Challenge: Relation Extraction Task](https://aistudio.baidu.com/aistudio/competition/detail/31), Rank: 
 [7/1166 (Team Leader)](https://yubowen-ph.github.io/files/awards/2020_baidu_challenge.jpg)
-* [NLPCC 2020 Auto Information Extraction](http://tcci.ccf.org.cn/conference/2020/dldoc/taskgline01.pdf
+* [NLPCC 2020 Auto Information Extraction Task](http://tcci.ccf.org.cn/conference/2020/dldoc/taskgline01.pdf
 ), Rank: 6
 
 
