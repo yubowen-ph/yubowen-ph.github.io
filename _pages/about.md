@@ -49,9 +49,12 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 
 # Competitions
 
-* 2020 Language and Intelligence Challenge: Relation Extraction Task, Rank: 
+* [2020 Language and Intelligence Challenge: Relation Extraction Task](https://aistudio.baidu.com/aistudio/competition/detail/31), Rank: 
 [7/1166 (Team Leader)](https://yubowen-ph.github.io/files/awards/2020_baidu_challenge.jpg)
-* NLPCC 2020 Auto Information Extraction, Rank: 6
+* [NLPCC 2020 Auto Information Extraction](http://tcci.ccf.org.cn/conference/2020/dldoc/taskgline01.pdf
+), Rank: 6
+
+
 
 <!-- * [Merit Student](https://lijian.ac.cn/files/awards/2019_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2019. -->
 <!-- * [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2017_laboratory_excellent_student.pdf), Institute of Information Engineering, CAS. 2017. -->
