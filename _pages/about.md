@@ -16,7 +16,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 
 # Publications
 * **New!!!** Xin Cong, **Bowen Yu**, Tingwen Liu, Shiyao Cui, Hengzhu Tang, Bin Wang. "Inductive Unsupervised Domain Adaptation for Few-Shot Classification via Clustering". Accepted to the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2020](https://ecmlpkdd2020.net)).
-* Yanzeng Li, **Bowen Yu**, Mengge Xue, Tingwen Liu. "Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention". Accepted to the 58th annual meeting of the Association for Computational Linguistics ([ACL 2020](https://acl2020.org)).
+* 王光, 李鸿宇, 邱云飞, **郁博文**, 柳厅文. "基于图卷积记忆网络的方面级情感分类"  Accepted to 中文信息学报.
 * Xiaobo Shu, **Bowen Yu**, Zhenyu Zhang, Tingwen Liu. "DRG2vec: Learning Word Representations from Definition Relational Graph". Accepted to the 2020 International Joint Conference on Neural Networks ([IJCNN 2020](https://wcci2020.org)).
 * Zhenyu Zhang, **Bowen Yu**, Tingwen Liu, Dong Wang. "Strong Baselines for Author Name Disambiguation with and without Neural Networks". Accepted to the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining ([PAKDD 2020](http://pakdd2020.org)).
 * **Bowen Yu**, Zhenyu Zhang, Xiaobo Shu, Tingwen Liu, Yubin Wang, Bin Wang, Sujian Li. "Joint Extraction of Entities and Relations Based on a Novel Decomposition Strategy". Accepted to the 24th European Conference on Artificial Intelligence ([ECAI 2020](http://ecai2020.eu)).
@@ -26,7 +26,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 
 # Academic Activities
 * Program committee member, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD), 2020
-* Review assistant for IJCAI 2018/2019/2020, AAAI 2018/2019/2020, EMNLP 2019, ACL 2019/2020, SIGIR 2020, IEEE TDKE, etc.
+* Review assistant for IJCAI 2018/2019/2020, AAAI 2018/2019/2020, EMNLP 2019/2020, COLING 2020, ACL 2019/2020, SIGIR 2020, IEEE TDKE, etc.
 
 
 # Honors and Awards
@@ -45,6 +45,13 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 * First Class Scholarship (Top 2%), Central South University. 2016.
 * Second Prize of The Ninth National College Student Information Security Contest (Top 1%), Ministry of Education, China. 2016.
 * National Encouragement Scholarship(Top 3%), Ministry of Education, China. 2016.
+
+
+# Competitions
+
+* 2020 Language and Intelligence Challenge: Relation Extraction Task, Rank: 
+[7/1166 (Team Leader)](https://yubowen-ph.github.io/files/awards/2020_baidu_challenge.jpg)
+* NLPCC 2020 Auto Information Extraction, Rank: 6
 
 <!-- * [Merit Student](https://lijian.ac.cn/files/awards/2019_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2019. -->
 <!-- * [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2017_laboratory_excellent_student.pdf), Institute of Information Engineering, CAS. 2017. -->
