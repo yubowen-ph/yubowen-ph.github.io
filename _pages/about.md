@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). I received my Bachelor's degree from [Central South University](http://en.csu.edu.cn) in Changsha, China in 2017. My research interests mainly lie in **Information Extraction**, but also include Metric Learning and Unsupervised Learning. Up to now, I have published several papers in the world top conferences such as ACL, AAAI, IJCAI and ECAI. I am a program committee member of top conferences (e.g., AAAI, ECML-PKDD) and journals (e.g., WWWJ).
+I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). I received my Bachelor's degree from [Central South University](http://en.csu.edu.cn) in Changsha, China in 2017. My research interests mainly lie in **Information Extraction**, but also include Metric Learning and Unsupervised Learning. Up to now, I have published several papers in the world top conferences such as ACL, EMNLP, AAAI, IJCAI and ECAI. I am a program committee member of top conferences (e.g., AAAI, ECML-PKDD) and journals (e.g., WWWJ).
 
 <!-- title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))" -->
 
@@ -16,7 +16,9 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 <!-- Indeed, my works focus on **Relation Extraction** and scalable **optimization** tools for them, to channel theory and algorithms into applications. -->
 
 # Publications
-* **New!!!** Xin Cong, **Bowen Yu**, Tingwen Liu, Shiyao Cui, Hengzhu Tang, Bin Wang. "Inductive Unsupervised Domain Adaptation for Few-Shot Classification via Clustering". Accepted to the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2020](https://ecmlpkdd2020.net)).
+* **New!!!** Shiyao Cui, **Bowen Yu**, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. "Edge-Enhanced Graph Convolutional Networks for Event Detection with Syntactic Relation". Accepted to the Findings of Empirical Methods in Natural Language Processing ([Findings of EMNLP 2020](https://2020.emnlp.org)).
+* **New!!!** Mengge Xue, **Bowen Yu**, Zhenyu Zhang, Tingwen Liu, Yue Zhang, Bin Wang. "Coarse-to-Fine Pre-training for Named Entity Recognition". Accepted to the 2020 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2020](https://2020.emnlp.org)).
+* Xin Cong, **Bowen Yu**, Tingwen Liu, Shiyao Cui, Hengzhu Tang, Bin Wang. "Inductive Unsupervised Domain Adaptation for Few-Shot Classification via Clustering". Accepted to the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases ([ECML-PKDD 2020](https://ecmlpkdd2020.net)).
 * 王光, 李鸿宇, 邱云飞, **郁博文**, 柳厅文. "基于图卷积记忆网络的方面级情感分类"  Accepted to 中文信息学报.
 * Xiaobo Shu, **Bowen Yu**, Zhenyu Zhang, Tingwen Liu. "DRG2vec: Learning Word Representations from Definition Relational Graph". Accepted to the 2020 International Joint Conference on Neural Networks ([IJCNN 2020](https://wcci2020.org)).
 * Zhenyu Zhang, **Bowen Yu**, Tingwen Liu, Dong Wang. "Strong Baselines for Author Name Disambiguation with and without Neural Networks". Accepted to the 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining ([PAKDD 2020](http://pakdd2020.org)).
@@ -32,6 +34,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 
 
 # Honors and Awards
+* The Winner of CCKS 2020 Few-shot Cross-domain Event Extraction Competition, University of Chinese Academy of Sciences. Chinese Information Processing Society of China. 2020.
 * Pacemaker to Merit Student (Top 1%), University of Chinese Academy of Sciences. 2019.
 * Merit Student, University of Chinese Academy of Sciences. 2019.
 <!-- * [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf) for [academic visiting at Stanford University twelve months](https://lijian.ac.cn/files/awards/2019_stanford_visiting.pdf). University of Chinese Academy of Sciences (UCAS). 2019. -->
@@ -53,9 +56,10 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 
 * [2020 Language and Intelligence Challenge: Relation Extraction Task](https://aistudio.baidu.com/aistudio/competition/detail/31), Rank: 
 [7/1166 (Team Leader)](https://yubowen-ph.github.io/files/awards/2020_baidu_challenge.jpg)
-* [NLPCC 2020 Auto Information Extraction Task](http://tcci.ccf.org.cn/conference/2020/dldoc/taskgline01.pdf
+* [NLPCC 2020 Auto Information Extraction Competition](http://tcci.ccf.org.cn/conference/2020/dldoc/taskgline01.pdf
 ), Rank: 6
-
+* [CCKS 2020 Few-shot Cross-domain Event Extraction Competition](http://sigkg.cn/ccks2020/?page_id=69#task4
+), Rank: [1/391](https://www.biendata.xyz/competition/ccks_2020_3/final-leaderboard/)
 
 
 <!-- * [Merit Student](https://lijian.ac.cn/files/awards/2019_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2019. -->
