@@ -12,7 +12,7 @@ author_profile: true
 <br> Xue Mengge, <b>Bowen Yu</b>, Tingwen Liu, Yue Zhang, Erli Meng and Bin Wang. <i>In Proceedings of the 28th International Conference on Computational Linguistics (**COLING 2020**, CCF-B, 1900 submissions)</i>. <br>
 
 * <b>TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking</b>. 
-<br> Yucheng Wang, <b>Bowen Yu</b>(Corresponding Author), Yueyang Zhang, Tingwen Liu, Hongsong Zhu and Limin Sun. <i>In Proceedings of the 28th International Conference on Computational Linguistics (**COLING 2020**, CCF-B, 1900 submissions)</i>. <br>
+<br> Yucheng Wang, <b>Bowen Yu (Corresponding Author)</b>, Yueyang Zhang, Tingwen Liu, Hongsong Zhu and Limin Sun. <i>In Proceedings of the 28th International Conference on Computational Linguistics (**COLING 2020**, CCF-B, 1900 submissions)</i>. <br>
 
 * <b>Document-level Relation Extraction with Dual-tier Heterogeneous Graph</b>. 
 <br> Zhenyu Zhang, <b>Bowen Yu</b>, Xiaobo Shu, Tingwen Liu, Hengzhu Tang, Wang Yubin, Li Guo. <i>In Proceedings of the 28th International Conference on Computational Linguistics (**COLING 2020**, CCF-B, 1900 submissions)</i>. <br>
@@ -65,9 +65,9 @@ Zhenyu Zhang, Xiaobo Shu, <b>Bowen Yu</b>, Tingwen Liu, Jiapeng Zhao, Quangang L
 Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>arXiv preprint arXiv:2002.10757, 2020</i>. <i>Submitted to EMNLP 2020</i>. <br>
 [[PDF]](https://arxiv.org/pdf/2002.10757.pdf) -->
 
-* <b>Porous Lattice Transformer Encoder for Chinese NER</b>. <br>
+<!-- * <b>Porous Lattice Transformer Encoder for Chinese NER</b>. <br>
 Mengge Xue, <b>Bowen Yu</b>, Tingwen Liu, Bin Wang, Erli Meng, Quangang Li. <i>arXiv preprint arXiv:1911.02733, 2019</i>. <i>Submitted to COLING 2020</i>. <br>
-[[PDF]](https://arxiv.org/pdf/1911.02733.pdf)
+[[PDF]](https://arxiv.org/pdf/1911.02733.pdf) -->
 <!-- [[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features) -->
 
 
