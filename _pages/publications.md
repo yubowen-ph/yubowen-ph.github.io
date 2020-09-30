@@ -5,6 +5,18 @@ author_profile: true
 ---
 ## 2020
 
+* <b>Learning to Prune Dependency Trees with Rethinking for Neural Relation Extraction</b>. 
+<br> <b>Bowen Yu</b>, Xue Mengge, Zhenyu Zhang, Tingwen Liu, Wang Yubin and Bin Wang. <i>In Proceedings of the 28th International Conference on Computational Linguistics (**COLING 2020**, CCF-B, 1900 submissions)</i>. <br>
+
+* <b>Porous Lattice Transformer Encoder for Chinese NER</b>. 
+<br> Xue Mengge, <b>Bowen Yu</b>, Tingwen Liu, Yue Zhang, Erli Meng and Bin Wang. <i>In Proceedings of the 28th International Conference on Computational Linguistics (**COLING 2020**, CCF-B, 1900 submissions)</i>. <br>
+
+* <b>TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking</b>. 
+<br> Yucheng Wang, <b>Bowen Yu</b>(Corresponding Author), Yueyang Zhang, Tingwen Liu, Hongsong Zhu and Limin Sun. <i>In Proceedings of the 28th International Conference on Computational Linguistics (**COLING 2020**, CCF-B, 1900 submissions)</i>. <br>
+
+* <b>Document-level Relation Extraction with Dual-tier Heterogeneous Graph</b>. 
+<br> Zhenyu Zhang, <b>Bowen Yu</b>, Xiaobo Shu, Tingwen Liu, Hengzhu Tang, Wang Yubin, Li Guo. <i>In Proceedings of the 28th International Conference on Computational Linguistics (**COLING 2020**, CCF-B, 1900 submissions)</i>. <br>
+
 * <b>Edge-Enhanced Graph Convolutional Networks for Event Detection with Syntactic Relation</b>. 
 <br> Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>In Findings of the 2020 Conference on Empirical Methods in Natural Language Processing (**Findings of EMNLP 2020**, CCF-B, acceptance rate 15.5%, 3359 submissions)</i>. <br>
 
