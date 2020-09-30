@@ -21,7 +21,7 @@ author_profile: true
 <br> Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Xuebin Wang, Jinqiao Shi. <i>In Findings of the 2020 Conference on Empirical Methods in Natural Language Processing (**Findings of EMNLP 2020**, CCF-B, acceptance rate 15.5%, 3359 submissions)</i>. <br>
 
 * <b>Coarse-to-Fine Pre-training for Named Entity Recognition</b>. 
-<br> Mengge Xue, <b>Bowen Yu</b>, Tingwen Liu, Shiyao Cui, Hengzhu Tang, Bin Wang. <i>In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**, CCF-B, acceptance rate 22.4%, 3359 submissions)</i>. <br>
+<br> Mengge Xue, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu, Yue Zhang, Bin Wang. <i>In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2020**, CCF-B, acceptance rate 22.4%, 3359 submissions)</i>. <br>
 
 * <b>Inductive Unsupervised Domain Adaptation for Few-Shot Classification via Clustering</b>. <br>
 Xin Cong, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu, Yue Zhang, Bin Wang. <i>In Proceedings of the 2020 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (**ECML-PKDD 2020**, CCF-B, acceptance rate 19.1%, 687 submissions)</i>. <br>
