@@ -13,6 +13,8 @@ author_profile: true
 
 * <b>TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking</b>. 
 <br> Yucheng Wang, <b>Bowen Yu (Corresponding Author)</b>, Yueyang Zhang, Tingwen Liu, Hongsong Zhu and Limin Sun. <i>In Proceedings of the 28th International Conference on Computational Linguistics (**COLING 2020**, CCF-B, 1900 submissions)</i>. <br>
+[[PDF]](https://yubowen-ph.github.io/files/2020_COLING_TPLinker/TPLinker_COLING_2020.pdf)
+[[Code]](https://github.com/131250208/JointExtraction)
 
 * <b>Document-level Relation Extraction with Dual-tier Heterogeneous Graph</b>. 
 <br> Zhenyu Zhang, <b>Bowen Yu</b>, Xiaobo Shu, Tingwen Liu, Hengzhu Tang, Wang Yubin, Li Guo. <i>In Proceedings of the 28th International Conference on Computational Linguistics (**COLING 2020**, CCF-B, 1900 submissions)</i>. <br>
@@ -34,7 +36,7 @@ Xin Cong, <b>Bowen Yu</b>, Zhenyu Zhang, Tingwen Liu, Yue Zhang, Bin Wang. <i>In
 * <b>Enhancing Pre-trained Chinese Character Representation with Word-aligned Attention</b>. <br>
 Yanzeng Li, <b>Bowen Yu</b>, Mengge Xue, Tingwen Liu. <i>In Proceedings of the 58th annual meeting of the Association for Computational Linguistics (**ACL 2020**, CCF-A, acceptance rate 25.2%, 3088 submissions)</i>. <br>
 [[PDF]](https://yubowen-ph.github.io/files/ACL_2020_MWA/MWA.pdf)
-[[Code]](https://github.com/lsvih/MWA.)
+[[Code]](https://github.com/lsvih/MWA)
 
 
 * <b>DRG2vec: Learning Word Representations from Definition Relational Graph</b>. <br>
