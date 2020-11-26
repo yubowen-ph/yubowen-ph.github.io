@@ -40,7 +40,8 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 
 
 # Honors and Awards
-* The Winner of CCKS 2020 Few-shot Cross-domain Event Extraction Competition (Top 1%), Chinese Information Processing Society of China. 2020.
+* [The Winner of CCKS 2020 Few-shot Cross-domain Event Extraction Competition](https://yubowen-ph.github.io/files/awards/2020_ccks_first_prize.pdf), Chinese Information Processing Society of China. 2020.
+* [The Technological Innovation Award of CCKS 2020 Few-shot Cross-domain Event Extraction Competition](https://yubowen-ph.github.io/files/awards/2020_ccks_first_prize.pdf), Chinese Information Processing Society of China. 2020.
 * Pacemaker to Merit Student (Top 1%), University of Chinese Academy of Sciences. 2019.
 * Merit Student, University of Chinese Academy of Sciences. 2019.
 <!-- * [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf) for [academic visiting at Stanford University twelve months](https://lijian.ac.cn/files/awards/2019_stanford_visiting.pdf). University of Chinese Academy of Sciences (UCAS). 2019. -->
