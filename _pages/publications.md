@@ -3,6 +3,12 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
+
+## 2021
+
+* <b>Semi-Open Information Extraction</b>. 
+<br> <b>Bowen Yu</b>, Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang, Bin Wang. <i>In Proceedings of the 30th Web Conference (**WWW 2021**, CCF-A, acceptance rate 20.6%, 1736 submissions)</i>. <br>
+
 ## 2020
 
 * <b>Learning to Prune Dependency Trees with Rethinking for Neural Relation Extraction</b>. 

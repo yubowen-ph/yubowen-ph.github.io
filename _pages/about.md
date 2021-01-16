@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). I received my Bachelor's degree from [Central South University](http://en.csu.edu.cn) in Changsha, China in 2017. My research interests mainly lie in **Information Extraction**, but also include Metric Learning and Unsupervised Learning. Up to now, I have published several papers in the world top conferences such as ACL, EMNLP, AAAI, IJCAI and ECAI. I am a program committee member of top conferences (e.g., AAAI, ECML-PKDD) and journals (e.g., WWWJ).
+I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). I received my Bachelor's degree from [Central South University](http://en.csu.edu.cn) in Changsha, China in 2017. My research interests mainly lie in **Information Extraction**, but also include Metric Learning and Unsupervised Learning. Up to now, I have published several papers in the world top conferences such as WWW, ACL, EMNLP, AAAI and IJCAI. I am a program committee member of top conferences (e.g., AAAI, ECML-PKDD) and journals (e.g., WWWJ).
 
 <!-- title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))" -->
 
@@ -16,6 +16,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 <!-- Indeed, my works focus on **Relation Extraction** and scalable **optimization** tools for them, to channel theory and algorithms into applications. -->
 
 # Publications
+* **Bowen Yu**, , Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang and Bin Wang. "Semi-Open Information Extraction". Accepted to the 30th Web Conference ([WWW 2021](https://www2021.thewebconf.org)).
 * **Bowen Yu**, Xue Mengge, Zhenyu Zhang, Tingwen Liu, Wang Yubin and Bin Wang. "Learning to Prune Dependency Trees with Rethinking for Neural Relation Extraction". Accepted to the 28th International Conference on Computational Linguistics ([COLING 2020](https://coling2020.org)).
 * Yucheng Wang, **Bowen Yu**, Yueyang Zhang, Tingwen Liu, Hongsong Zhu and Limin Sun. "TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking". Accepted to the 28th International Conference on Computational Linguistics ([COLING 2020](https://coling2020.org)).
 * Xue Mengge, **Bowen Yu**, Tingwen Liu, Yue Zhang, Erli Meng and Bin Wang. "Porous Lattice Transformer Encoder for Chinese NER". Accepted to the 28th International Conference on Computational Linguistics ([COLING 2020](https://coling2020.org)).
