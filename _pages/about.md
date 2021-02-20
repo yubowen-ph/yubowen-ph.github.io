@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). I received my Bachelor's degree from [Central South University](http://en.csu.edu.cn) in Changsha, China in 2017. My research interests mainly lie in **Information Extraction**, but also include Metric Learning and Unsupervised Learning. Up to now, I have published several papers in the world top conferences such as WWW, ACL, EMNLP, AAAI and IJCAI. I am a program committee member of top conferences (e.g., AAAI, ECML-PKDD) and journals (e.g., WWWJ).
+I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Tingwen Liu](https://scholar.google.com/citations?user=JqOOSuIAAAAJ) and Researcher. [Bin Wang](https://scholar.google.com/citations?user=tDajnHEAAAAJ). I received my Bachelor's degree from [Central South University](http://en.csu.edu.cn) in Changsha, China in 2017. My research interests mainly lie in **Information Extraction**, but also include Metric Learning and Unsupervised Learning. Up to now, I have published several papers in the world top conferences such as WWW, ACL, EMNLP, AAAI and IJCAI. I am a program committee member of top conferences (e.g., ACL, AAAI, ECML-PKDD) and journals (e.g., WWWJ).
 
 <!-- title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))" -->
 
@@ -35,9 +35,9 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 <!-- * **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)). -->
 
 # Academic Activities
-* Program committee member, The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020), The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2020).
+* Program committee member, The 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021), The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD 2020), The Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI 2020).
 * Reviewer for World Wide Web Journal.
-* Review assistant for IJCAI 2018/2019/2020, AAAI 2018/2019/2020, EMNLP 2019/2020, COLING 2020, ACL 2019/2020, SIGIR 2020, WSDM 2021, IEEE TDKE, etc.
+* Review assistant for IJCAI 2018/2019/2020, AAAI 2018/2019/2020, EMNLP 2019/2020, COLING 2020, ACL 2019/2020, SIGIR 2020/2021, WSDM 2021, IEEE TDKE, etc.
 
 
 # Honors and Awards
