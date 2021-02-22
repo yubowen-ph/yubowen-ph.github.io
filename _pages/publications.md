@@ -8,6 +8,7 @@ author_profile: true
 
 * <b>Semi-Open Information Extraction</b>. 
 <br> <b>Bowen Yu</b>, Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang, Bin Wang. <i>In Proceedings of the 30th Web Conference (**WWW 2021**, CCF-A, acceptance rate 20.6%, 1736 submissions)</i>. <br>
+[[PDF]](https://yubowen-ph.github.io/files/2020_WWW_SOIE/SOIE.pdf)
 
 ## 2020
 
