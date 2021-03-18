@@ -6,6 +6,9 @@ author_profile: true
 
 ## 2021
 
+* <b>FITAnnotator: A Flexible and Intelligent Text Annotation System</b>. 
+<br> Yanzeng Li, <b>Bowen Yu</b>, Li Quangang and Tingwen Liu. <i>In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2021**)</i>. 
+
 * <b>Semi-Open Information Extraction</b>. 
 <br> <b>Bowen Yu</b>, Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang, Bin Wang. <i>In Proceedings of the 30th Web Conference (**WWW 2021**, CCF-A, acceptance rate 20.6%, 1736 submissions)</i>. <br>
 [[PDF]](https://yubowen-ph.github.io/files/2020_WWW_SOIE/SOIE.pdf)

@@ -16,6 +16,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 <!-- Indeed, my works focus on **Relation Extraction** and scalable **optimization** tools for them, to channel theory and algorithms into applications. -->
 
 # Publications
+* Yanzeng Li, **Bowen Yu**, Li Quangang and Tingwen Liu. "FITAnnotator: A Flexible and Intelligent Text Annotation System". Accepted to the 2021 Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL 2021](https://2021.naacl.org)).
 * **Bowen Yu**, , Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang and Bin Wang. "Semi-Open Information Extraction". Accepted to the 30th Web Conference ([WWW 2021](https://www2021.thewebconf.org)).
 * **Bowen Yu**, Xue Mengge, Zhenyu Zhang, Tingwen Liu, Wang Yubin and Bin Wang. "Learning to Prune Dependency Trees with Rethinking for Neural Relation Extraction". Accepted to the 28th International Conference on Computational Linguistics ([COLING 2020](https://coling2020.org)).
 * Yucheng Wang, **Bowen Yu**, Yueyang Zhang, Tingwen Liu, Hongsong Zhu and Limin Sun. "TPLinker: Single-stage Joint Extraction of Entities and Relations Through Token Pair Linking". Accepted to the 28th International Conference on Computational Linguistics ([COLING 2020](https://coling2020.org)).
