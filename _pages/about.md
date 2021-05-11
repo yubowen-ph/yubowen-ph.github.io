@@ -16,6 +16,11 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 <!-- Indeed, my works focus on **Relation Extraction** and scalable **optimization** tools for them, to channel theory and algorithms into applications. -->
 
 # Publications
+* Yucheng Wang\*, **Bowen Yu\***, Hongsong Zhu, Tingwen Liu, Nan Yu and Limin Sun. "Discontinuous Named Entity Recognition as Maximal Clique Discovery". Accepted to the 59th Annual Meeting of the Association for Computational Linguistics ([ACL 2021](https://2021.aclweb.org)).
+* Zhenyu Zhang, **Bowen Yu**, Xiaobo Shu, Xue Mengge, Tingwen Liu and Li Guo. "From What to Why: Improving Relation Extraction with Rationale Graph". Accepted to Findings of ACL ([ACL 2021](https://2021.aclweb.org)).
+* Jiawei Sheng, Shu Guo, **Bowen Yu**, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu and Hongbo Xu. "CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction". Accepted to Findings of ACL ([ACL 2021](https://2021.aclweb.org)).
+* Xin Cong, Shiyao Cui, **Bowen Yu**, Tingwen Liu, Wang Yubin and Bin Wang. "Few-Shot Event Detection with Prototypical Amortized Conditional Random Field". Accepted to Findings of ACL ([ACL 2021](https://2021.aclweb.org)).
+
 * Yanzeng Li, **Bowen Yu**, Li Quangang and Tingwen Liu. "FITAnnotator: A Flexible and Intelligent Text Annotation System". Accepted to the 2021 Conference of the North American Chapter of the Association for Computational Linguistics ([NAACL 2021](https://2021.naacl.org)).
 * **Bowen Yu**, , Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang and Bin Wang. "Semi-Open Information Extraction". Accepted to the 30th Web Conference ([WWW 2021](https://www2021.thewebconf.org)).
 * **Bowen Yu**, Xue Mengge, Zhenyu Zhang, Tingwen Liu, Wang Yubin and Bin Wang. "Learning to Prune Dependency Trees with Rethinking for Neural Relation Extraction". Accepted to the 28th International Conference on Computational Linguistics ([COLING 2020](https://coling2020.org)).

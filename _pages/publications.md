@@ -5,13 +5,25 @@ author_profile: true
 ---
 
 ## 2021
+* <b>Discontinuous Named Entity Recognition as Maximal Clique Discovery</b>. 
+<br> Yucheng Wang\*, <b>Bowen Yu\*(Equal Contribution)</b>, Hongsong Zhu, Tingwen Liu, Nan Yu and Limin Sun. <i>In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**, CCF-A, acceptance rate 21.3%, 3350 submissions)</i>. <br>
+
+* <b>From What to Why: Improving Relation Extraction with Rationale Graph</b>. 
+<br> Zhenyu Zhang, <b>Bowen Yu</b>, Xiaobo Shu, Xue Mengge, Tingwen Liu and Li Guo. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
+
+* <b>CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction</b>. 
+<br> Jiawei Sheng, Shu Guo, <b>Bowen Yu</b>, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu and Hongbo Xu. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
+
+* <b>Few-Shot Event Detection with Prototypical Amortized Conditional Random Field</b>. 
+<br> Xin Cong, Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Wang Yubin and Bin Wang. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
+
 
 * <b>FITAnnotator: A Flexible and Intelligent Text Annotation System</b>. 
-<br> Yanzeng Li, <b>Bowen Yu</b>, Li Quangang and Tingwen Liu. <i>In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2021**)</i>. 
+<br> Yanzeng Li, <b>Bowen Yu</b>, Li Quangang and Tingwen Liu. <i>In Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL 2021**)</i>. <br>
 
 * <b>Semi-Open Information Extraction</b>. 
-<br> <b>Bowen Yu</b>, Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang, Bin Wang. <i>In Proceedings of the 30th Web Conference (**WWW 2021**, CCF-A, acceptance rate 20.6%, 1736 submissions)</i>. <br>
-[[PDF]](https://yubowen-ph.github.io/files/2020_WWW_SOIE/SOIE.pdf)
+<br> <b>Bowen Yu</b>, Zhenyu Zhang, Jiawei Sheng, Tingwen Liu, Yubin Wang, Yucheng Wang, Bin Wang. <i>In Proceedings of the 30th Web Conference (**WWW 2021**, CCF-A, acceptance rate 20.6%, 1736 submissions)</i>. 
+[[PDF]](https://yubowen-ph.github.io/files/2020_WWW_SOIE/SOIE.pdf) <br>
 
 ## 2020
 
