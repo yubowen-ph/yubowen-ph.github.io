@@ -9,13 +9,13 @@ author_profile: true
 <br> Yucheng Wang\*, <b>Bowen Yu\*(Equal Contribution)</b>, Hongsong Zhu, Tingwen Liu, Nan Yu and Limin Sun. <i>In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**, CCF-A, acceptance rate 21.3%, 3350 submissions)</i>. <br>
 
 * <b>From What to Why: Improving Relation Extraction with Rationale Graph</b>. 
-<br> Zhenyu Zhang, <b>Bowen Yu</b>, Xiaobo Shu, Xue Mengge, Tingwen Liu and Li Guo. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
+<br> Zhenyu Zhang, <b>Bowen Yu</b>, Xiaobo Shu, Xue Mengge, Tingwen Liu and Li Guo. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
 
 * <b>CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction</b>. 
-<br> Jiawei Sheng, Shu Guo, <b>Bowen Yu</b>, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu and Hongbo Xu. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
+<br> Jiawei Sheng, Shu Guo, <b>Bowen Yu</b>, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu and Hongbo Xu. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
 
 * <b>Few-Shot Event Detection with Prototypical Amortized Conditional Random Field</b>. 
-<br> Xin Cong, Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Wang Yubin and Bin Wang. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
+<br> Xin Cong, Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu, Wang Yubin and Bin Wang. <i>In Findings of the 59th Annual Meeting of the Association for Computational Linguistics (**Findings of ACL 2021**, CCF-A, acceptance rate 14.9%, 3350 submissions)</i>. <br>
 
 
 * <b>FITAnnotator: A Flexible and Intelligent Text Annotation System</b>. 
