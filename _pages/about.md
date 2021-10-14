@@ -16,7 +16,12 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 <!-- Indeed, my works focus on **Relation Extraction** and scalable **optimization** tools for them, to channel theory and algorithms into applications. -->
 
 # Publications
-* Yucheng Wang\*, **Bowen Yu\***, Hongsong Zhu, Tingwen Liu, Nan Yu and Limin Sun. "Discontinuous Named Entity Recognition as Maximal Clique Discovery". Accepted to the 59th Annual Meeting of the Association for Computational Linguistics ([ACL 2021](https://2021.aclweb.org)).
+
+* <b>Bowen Yu</b>, Yucheng Wang, Tingwen Liu, Hongsong Zhu, Limin Sun and Bin Wang. "Maximal Clique Based Non-Autoregressive Open Information Extraction". Accepted to the 2021 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2021](https://2021.emnlp.org/)).
+
+* Xinghua Zhang, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Jiawei Sheng, Xue Mengge and Hongbo Xu. "Improving Distantly-Supervised Named Entity Recognition with Self-Collaborative Denoising Learning". Accepted to the 2021 Conference on Empirical Methods in Natural Language Processing ([Findings of EMNLP 2021](https://2021.emnlp.org/)).
+
+* Yucheng Wang\*, **Bowen Yu\*(Co-First Author)**, Hongsong Zhu, Tingwen Liu, Nan Yu and Limin Sun. "Discontinuous Named Entity Recognition as Maximal Clique Discovery". Accepted to the 59th Annual Meeting of the Association for Computational Linguistics ([ACL 2021](https://2021.aclweb.org)).
 * Zhenyu Zhang, **Bowen Yu**, Xiaobo Shu, Xue Mengge, Tingwen Liu and Li Guo. "From What to Why: Improving Relation Extraction with Rationale Graph". Accepted to Findings of ACL ([ACL 2021](https://2021.aclweb.org)).
 * Jiawei Sheng, Shu Guo, **Bowen Yu**, Qian Li, Yiming Hei, Lihong Wang, Tingwen Liu and Hongbo Xu. "CasEE: A Joint Learning Framework with Cascade Decoding for Overlapping Event Extraction". Accepted to Findings of ACL ([ACL 2021](https://2021.aclweb.org)).
 * Xin Cong, Shiyao Cui, **Bowen Yu**, Tingwen Liu, Wang Yubin and Bin Wang. "Few-Shot Event Detection with Prototypical Amortized Conditional Random Field". Accepted to Findings of ACL ([ACL 2021](https://2021.aclweb.org)).

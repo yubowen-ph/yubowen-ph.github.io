@@ -5,6 +5,13 @@ author_profile: true
 ---
 
 ## 2021
+* <b>Maximal Clique Based Non-Autoregressive Open Information Extraction</b>. 
+<br> <b>Bowen Yu</b>, Yucheng Wang, Tingwen Liu, Hongsong Zhu, Limin Sun and Bin Wang. <i>In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**, CCF-B)</i>. <br>
+
+* <b>Improving Distantly-Supervised Named Entity Recognition with Self-Collaborative Denoising Learning</b>. 
+<br> Xinghua Zhang, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Jiawei Sheng, Xue Mengge and Hongbo Xu. <i>In Findings of the 2021 Conference on Empirical Methods in Natural Language Processing (**Findings of EMNLP 2021**, CCF-B)</i>. <br>
+
+
 * <b>Discontinuous Named Entity Recognition as Maximal Clique Discovery</b>. 
 <br> Yucheng Wang\*, <b>Bowen Yu\*(Equal Contribution)</b>, Hongsong Zhu, Tingwen Liu, Nan Yu and Limin Sun. <i>In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (**ACL 2021**, CCF-A, acceptance rate 21.3%, 3350 submissions)</i>. <br>
 
