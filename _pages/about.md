@@ -17,6 +17,10 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 
 # Publications
 
+* Xinghua Zhang, <b>Bowen Yu</b>, Tingwen Liu, Yubin Wang, Taoyu Su and Hongbo Xu. "Exploring Modular Task Decomposition in Cross-domain Named Entity Recognition". Accepted to the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval  ([SIGIR 2022](https://sigir.org/sigir2022/)).
+
+* Xin Cong, Jiawei Sheng, Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu and Bin Wang. "Relation-Guided Few-Shot Relational Triple Extraction". Accepted to the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval  ([SIGIR 2022](https://sigir.org/sigir2022/)).
+
 * <b>Bowen Yu</b>, Yucheng Wang, Tingwen Liu, Hongsong Zhu, Limin Sun and Bin Wang. "Maximal Clique Based Non-Autoregressive Open Information Extraction". Accepted to the 2021 Conference on Empirical Methods in Natural Language Processing ([EMNLP 2021](https://2021.emnlp.org/)).
 
 * Xinghua Zhang, <b>Bowen Yu</b>, Tingwen Liu, Zhenyu Zhang, Jiawei Sheng, Xue Mengge and Hongbo Xu. "Improving Distantly-Supervised Named Entity Recognition with Self-Collaborative Denoising Learning". Accepted to the 2021 Conference on Empirical Methods in Natural Language Processing ([Findings of EMNLP 2021](https://2021.emnlp.org/)).

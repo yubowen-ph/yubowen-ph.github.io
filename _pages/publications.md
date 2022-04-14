@@ -4,6 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2022
+
+* <b>Exploring Modular Task Decomposition in Cross-domain Named Entity Recognition</b>. 
+<br> Xinghua Zhang, <b>Bowen Yu</b>, Tingwen Liu, Yubin Wang, Taoyu Su and Hongbo Xu. <i>In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2022**, CCF-A)</i>. <br>
+
+* <b>Relation-Guided Few-Shot Relational Triple Extraction</b>. 
+<br> Xin Cong, Jiawei Sheng, Shiyao Cui, <b>Bowen Yu</b>, Tingwen Liu and Bin Wang. <i>In Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2022**, CCF-A)</i>. <br>
+
 ## 2021
 * <b>Maximal Clique Based Non-Autoregressive Open Information Extraction</b>. 
 <br> <b>Bowen Yu</b>, Yucheng Wang, Tingwen Liu, Hongsong Zhu, Limin Sun and Bin Wang. <i>In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (**EMNLP 2021**, CCF-B)</i>. <br>
